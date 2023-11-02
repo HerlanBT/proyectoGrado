@@ -1,0 +1,1 @@
+import{_ as e,o,c as t,b as s}from"./index-4ea004f4.js";const r={},c={class:"bg-dark text-white p-3 text-center"},n=s("p",null," Todos los derechos reservados Proyecto de Grado Flutter 2023 👍 ",-1),_=[n];function a(d,l){return o(),t("footer",c,_)}const f=e(r,[["render",a]]);export{f as F};
